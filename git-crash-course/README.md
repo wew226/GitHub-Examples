@@ -36,6 +36,17 @@ cd GitHub-Examples
 
 ## Commits
 
+When we want to commit code we can write `git commit` which will open up the commit edit message in the editor of choice.
+
+```sh
+git commit
+```
+
+Set the global editor
+```sh
+git config --global core.editor emacs
+```
+
 ## Branches
 
 ## Remotes
@@ -71,4 +82,19 @@ Git status shows you what files will or will not be committed.
 
 ```sh
 git status
+```
+
+## Gitconfig file
+
+The gitconfig file is what stores your global configurations for git such as name, email, editor and more.
+
+```sh
+git config --list
+```
+
+When you first install Git on a machine you are supposed to set up your name and email.
+
+```sh
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
 ```
