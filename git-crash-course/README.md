@@ -134,6 +134,22 @@ git commit -m "Add another exclamation mark"
 
 ## Branches
 
+List of branches
+
+```sh
+git branch
+```
+
+Create a new branch
+```sh
+git branch branch-name
+```
+
+Checkout the branch
+```sh
+git checkout dev
+```
+
 ## Remotes
 
 ## Stashing
