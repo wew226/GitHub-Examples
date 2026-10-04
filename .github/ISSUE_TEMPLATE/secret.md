@@ -4,6 +4,7 @@ about: Submits a secret
 title: ''
 labels: secret
 assignees: ''
+
 ---
 
 ## Welcome to secret submissions
