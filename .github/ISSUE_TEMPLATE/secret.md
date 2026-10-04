@@ -2,8 +2,9 @@
 name: Secret Issue
 about: Submits a secret
 title: ''
-labels: secret
+labels: ''
 assignees: ''
+
 ---
 
 ## Welcome to secret submissions
