@@ -2,7 +2,7 @@
 name: Secret Issue
 about: Submits a secret
 title: ''
-labels: ''
+labels: secret
 assignees: ''
 
 ---
